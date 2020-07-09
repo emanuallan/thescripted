@@ -1,3 +1,3 @@
-# Benjamin Kinga
+# Hey, There.
 
-JavaScript Developer building applications with React, Node, and PostgreSQL. 
+I am a JavaScript Developer, currently building applications with React, Node, and PostgreSQL.
