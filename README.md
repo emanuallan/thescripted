@@ -1,3 +1,3 @@
 # Hey, There.
 
-I am a JavaScript Developer, currently building front-end applications with React and D3.
+I am a JavaScript Developer, currently building web applications with React, PostgreSQL, and NodeJS. 
