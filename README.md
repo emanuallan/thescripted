@@ -3,5 +3,5 @@
 I am a JavaScript Developer, currently building web applications with React, PostgreSQL, and NodeJS. 
 
 Feel Free to Contact Me:
-- Twitter: [@thescripted](https://www.twitter.com/thescripted)
+- Twitter: [@thescriptedone](https://www.twitter.com/thescriptedone)
 - Email: [somethingscripted@gmail.com](mailto:somethingscripted@gmail.com)
