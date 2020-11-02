@@ -1,6 +1,6 @@
 ## Hey, There.
 
-I am a JavaScript Developer, currently building web applications with React, PostgreSQL, and NodeJS. 
+Web Application Developer building with React, TypeScript, and Flask.
 
 Feel Free to Contact Me:
 - Twitter: [@thescriptedone](https://www.twitter.com/thescriptedone)
