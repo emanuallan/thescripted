@@ -1,6 +1,6 @@
 ## Hey, There.
 
-Web Application Developer building with React, TypeScript, and Flask.
+Web Application Developer.
 
 Feel Free to Contact Me:
 - Twitter: [@thescriptedone](https://www.twitter.com/thescriptedone)
